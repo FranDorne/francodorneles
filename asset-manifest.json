@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/francodorneles/static/css/main.cf1d7c14.chunk.css",
-    "main.js": "/francodorneles/static/js/main.d1aae737.chunk.js",
-    "main.js.map": "/francodorneles/static/js/main.d1aae737.chunk.js.map",
+    "main.js": "/francodorneles/static/js/main.9842cd7b.chunk.js",
+    "main.js.map": "/francodorneles/static/js/main.9842cd7b.chunk.js.map",
     "runtime-main.js": "/francodorneles/static/js/runtime-main.431afbf1.js",
     "runtime-main.js.map": "/francodorneles/static/js/runtime-main.431afbf1.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/francodorneles/static/css/2.7fc9bc2b.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.e97b5704.chunk.js",
     "static/css/main.cf1d7c14.chunk.css",
-    "static/js/main.d1aae737.chunk.js"
+    "static/js/main.9842cd7b.chunk.js"
   ]
 }
