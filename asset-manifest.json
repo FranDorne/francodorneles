@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/francodorneles/static/css/main.cf1d7c14.chunk.css",
+    "main.js": "/francodorneles/static/js/main.d180511e.chunk.js",
+    "main.js.map": "/francodorneles/static/js/main.d180511e.chunk.js.map",
+    "runtime-main.js": "/francodorneles/static/js/runtime-main.431afbf1.js",
+    "runtime-main.js.map": "/francodorneles/static/js/runtime-main.431afbf1.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/francodorneles/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.6e35c07f.chunk.js": "/francodorneles/static/js/2.6e35c07f.chunk.js",
+    "static/js/2.6e35c07f.chunk.js.map": "/francodorneles/static/js/2.6e35c07f.chunk.js.map",
+    "index.html": "/francodorneles/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/francodorneles/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.cf1d7c14.chunk.css.map": "/francodorneles/static/css/main.cf1d7c14.chunk.css.map",
+    "static/js/2.6e35c07f.chunk.js.LICENSE.txt": "/francodorneles/static/js/2.6e35c07f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.431afbf1.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.6e35c07f.chunk.js",
+    "static/css/main.cf1d7c14.chunk.css",
+    "static/js/main.d180511e.chunk.js"
+  ]
+}
