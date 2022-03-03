@@ -95,7 +95,7 @@ const contact = {
 const social = {
   github: "https://github.com/FranDorne",
   linkedin: "https://www.linkedin.com/in/francodorneles/",
-  resume: "https://drive.google.com/file/d/16FX4doEcKx6HoErFwRVApDWLQBMaQRaF/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1WKmxZ52AaYkerVMUaaEDvK3BLmA7arF3/view?usp=sharing",
 };
 // Dont change anything here
 export {
